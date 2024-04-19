@@ -1,3 +1,17 @@
+import subprocess
+
+# Define a function to install dependencies from requirements.txt
+def install_requirements():
+    try:
+        subprocess.check_call(["pip", "install", "-r", "requirements.txt"])
+        print("Dependencies installed successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error installing dependencies: {e}")
+
+# Call the function to install dependencies
+install_requirements()
+
+
 import streamlit as st
 st.set_page_config(layout="wide")
 import pandas as pd
