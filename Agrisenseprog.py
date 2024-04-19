@@ -1,8 +1,3 @@
-import subprocess
-
-# Install matplotlib using pip
-subprocess.check_call(["pip", "install", "matplotlib"])
-
 import streamlit as st
 st.set_page_config(layout="wide")
 import pandas as pd
