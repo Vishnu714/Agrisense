@@ -53,18 +53,6 @@ remainder='passthrough'
 )
 X_train_dummy=preprocessor.fit_transform(X_train)
 X_test_dummy=preprocessor.transform(X_test)
-models = {
-    'lr': LinearRegression(),
-    'lss': Lasso(),
-    'rg': Ridge(),
-    'knr': KNeighborsRegressor(),
-    'dtr': DecisionTreeRegressor()
-}
-
-for name, mod in models.items():
-    mod.fit(X_train_dummy, y_train)
-    y_pred = mod.predict(X_test_dummy)
-    print(f"{name} MSE: {mean_squared_error(y_test, y_pred)} Score {r2_score(y_test, y_pred)}")
 
 dtr=DecisionTreeRegressor()
 dtr.fit(X_train_dummy,y_train)
