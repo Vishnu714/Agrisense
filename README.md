@@ -2,7 +2,7 @@
 
 AGRISENSE is a web application designed for farmers to help them analyze and predict crop yields based on various agricultural attributes. This README file provides an overview of the features and functionalities of the AGRISENSE repository.
 
-![AGRISENSE](images/AGRISENSE.png)
+![AGRISENSE](AGRISENSE.png)
 
 
 ## Features
