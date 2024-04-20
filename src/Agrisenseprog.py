@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+st.set_page_config(layout="wide")
 import numpy as np
 import plotly.express as px
 from sklearn.model_selection import train_test_split
