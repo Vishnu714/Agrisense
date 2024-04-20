@@ -2,6 +2,9 @@
 
 AGRISENSE is a web application designed for farmers to help them analyze and predict crop yields based on various agricultural attributes. This README file provides an overview of the features and functionalities of the AGRISENSE repository.
 
+![AGRISENSE](images/AGRISENSE.png)
+
+
 ## Features
 
 ### Crop Yield Prediction
@@ -36,7 +39,7 @@ To use AGRISENSE, follow these steps:
 
 ## Screenshots
 
-![World Map](images/world_map.png)
+![World Map](images/World_map.png)
 
 *Figure 1: Interactive World Map showing Crop Distribution*
 
@@ -52,7 +55,7 @@ To use AGRISENSE, follow these steps:
 
 *Figure 4: Frequency of Area Chart*
 
-![Frequency of Items](images/frequency_of_items.png)
+![Frequency of Items](images/frequency_of_item.png)
 
 *Figure 5: Frequency of Crop Items Chart*
 
