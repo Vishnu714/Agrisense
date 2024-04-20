@@ -39,31 +39,31 @@ To use AGRISENSE, follow these steps:
 
 ## Screenshots
 
-![World Map](images/World_map.png)
+![World Map](World_map.png)
 
 *Figure 1: Interactive World Map showing Crop Distribution*
 
-![Yield per Country](images/yield_per_country.png)
+![Yield per Country](yield_per_country.png)
 
 *Figure 2: Yield per Country Chart*
 
-![Yield per Item](images/yield_per_item.png)
+![Yield per Item](yield_per_item.png)
 
 *Figure 3: Yield per Crop Item Chart*
 
-![Frequency of Area](images/frequency_of_area.png)
+![Frequency of Area](frequency_of_area.png)
 
 *Figure 4: Frequency of Area Chart*
 
-![Frequency of Items](images/frequency_of_item.png)
+![Frequency of Items](frequency_of_item.png)
 
 *Figure 5: Frequency of Crop Items Chart*
 
-## Contributors
+### Website Link
+[AGRISENSE](https://agrisensa.streamlit.app/)
 
-- [Your Name]
-- [Your Email]
 
-## License
+- [Vishnu Padmakumar]
+- [vishnu.padmakumar1493@gmail.com]
 
-This project is licensed under the [MIT License](LICENSE).
+
